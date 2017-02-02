@@ -1,0 +1,21 @@
+{
+  "name": "Assignment-Partial_Custom",
+  "homepage": "https://github.com/CodingDojoOnline-MEAN-2/MikaelaCarino",
+  "authors": [
+    "Mikaela Carino <mikaela.carino@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
