@@ -2,7 +2,7 @@
 ---
 ###### A basic app where you can create a new user by entering the First Name, Last Name, and Favorite Language. The user will be displayed below and also on the "User List" page. On the Customize User page, you can also `Delete` a user.
 
-This app demonstrates partial pages with each partial page having its own controller.
+###### This app demonstrates partial pages with each partial page having its own controller.
 ---
 
 1. Go to the folder where the `server.js` file is in.
